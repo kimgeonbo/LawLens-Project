@@ -1,0 +1,12 @@
+streamlit
+langchain-chroma
+langchain-google-genai
+langchain-community
+python-dotenv
+pandas
+altair
+opencv-python-headless
+pytesseract
+pydub
+google-generativeai
+chromadb
