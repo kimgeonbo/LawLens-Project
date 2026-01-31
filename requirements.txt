@@ -10,3 +10,4 @@ pytesseract
 pydub
 google-generativeai
 chromadb
+easyocr
