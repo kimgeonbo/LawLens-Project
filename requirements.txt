@@ -11,3 +11,5 @@ pydub
 google-generativeai
 chromadb
 easyocr
+openai-whisper
+numpy<2.0.0
