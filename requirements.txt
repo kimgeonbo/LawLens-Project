@@ -12,3 +12,4 @@ google-generativeai
 chromadb
 openai-whisper
 numpy<2.0.0
+emoji
