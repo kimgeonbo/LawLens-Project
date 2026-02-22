@@ -129,8 +129,8 @@ with st.sidebar:
     else:
         st.success("✅ 법적 고지 동의 완료")
         uploaded_audios = st.file_uploader(
-            "녹음 파일 (mp3, wav 등)", 
-            type=["mp3", "wav", "m4a"], accept_multiple_files=True, 
+            "녹음/영상 파일 (mp3, wav 등)", 
+            type=["mp3", "wav", "m4a", "mp4", "avi", "mov"], accept_multiple_files=True, 
             key=f"audio_uploader_{uploader_key}"
         )
         if st.button("동의 취소 (업로더 숨기기)"):
